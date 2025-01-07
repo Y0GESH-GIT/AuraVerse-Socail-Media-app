@@ -1,6 +1,6 @@
 # AuraVerse-Socail-Media-app
 
-Mern stack 
+MERN Full Stack Devlopment  
 
 MongoDB: Non Relational Database
 
